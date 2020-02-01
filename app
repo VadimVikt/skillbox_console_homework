@@ -6,6 +6,11 @@ $app = new \Symfony\Component\Console\Application('homework git');
 
 $app->add(new \App\SayHello());
 
+
+
+
+
+
 $app->run();
 
 
